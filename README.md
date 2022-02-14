@@ -7,6 +7,8 @@ Título: ANÁLISE COMPARATIVA DOS CASOS CONFIRMADOS POR COVID-19 NO MUNICÍPIO D
 Autores: Mariana da Silva Costa¹, Matheus Santos Matos¹, Lana dos Santos Meijinhos², Paula Cristina Pungartnik¹, Gabriela Almeida Chaves dos Santos²,
 Antônio José Leal Costa³, Natália Santana Paiva³, Ana Paula Razal Dalvi³
 
+¹ Alunos do Curso de Graduação em Saúde Coletiva - Instituto de Estudos em Saúde Coletiva UFRJ; ² Sanitaristas egressas do Curso de Graduação em Saúde Coletiva - Instituto de Estudos em Saúde Coletiva UFRJ; ³ Professor(a) do Instituto de Estudos em Saúde Coletiva UFRJ 
+
 Objetivo: Apresentar o perfil da incidência por Covid-19 nas Áreas Programáticas (AP) do município do Rio de Janeiro (MRJ). 
 Métodos: É um estudo ecológico descritivo, de múltiplos grupos, por se tratar de uma análise no plano populacional, onde os casos de Covid-19 
 foram agregados por Áreas Programáticas (AP). Os registros dos casos confirmados de Covid-19 foram disponibilizados pelo Centro de Informação 
