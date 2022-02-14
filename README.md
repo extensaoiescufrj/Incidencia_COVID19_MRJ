@@ -1,5 +1,6 @@
 # Incidencia_COVID19_MRJ
 
+
 Taxas de incidência bruta e ajustada por Covid-19 nas Áreas Programáticas (AP) do município do Rio de Janeiro
 
 Título: ANÁLISE COMPARATIVA DOS CASOS CONFIRMADOS POR COVID-19 NO MUNICÍPIO DO RIO DE JANEIRO POR ÁREA PROGRAMÁTICA (AP)
@@ -18,4 +19,6 @@ Tal estimativa foi realizada dobrando a estimativa populacional do ano de 2020 p
 Para a  padronização da taxa de incidência por AP foi utilizada a estimativa populacional do MRJ em 2020, do Instituto Pereira Passos. A análise foi realizada 
 no Software livre R.  
 
-- Disponibilizamos as bases de dados (públicas) e o script em R.
+
+- Trabalho apresentado na 11ª SIAc – Semana de Integração Acadêmica da UFRJ 2021-2022
+- Disponibilizamos as bases de dados (públicas) e script R com as rotinas de autoria própria
